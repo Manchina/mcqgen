@@ -1,0 +1,4 @@
+Question_Number,Question,Option_A,Option_B,Option_C,Option_D,Correct_Answer
+1,"Based on the provided text, what primary characteristic is attributed to Python?",It is a highly specialized language for a single domain.,It is a versatile language with diverse applications.,It is an outdated language primarily used for legacy systems.,It is a language exclusively for graphical user interface development.,b
+2,Which of the following applications is explicitly mentioned in the text as a use case for Python?,Mobile app development,Video game design,Data analysis,Operating system programming,c
+3,"According to the text, Python is utilized for a combination of which three specific application areas?","Web development, network security, and embedded systems.","Automation, data analysis, and AI applications.","Game development, desktop applications, and scientific research.","Cloud computing, cryptocurrency mining, and robotics.",b

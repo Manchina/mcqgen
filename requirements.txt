@@ -1,5 +1,10 @@
-openai
+# Core dependencies
 langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+
 streamlit
 python-dotenv
 PyPDF2
+

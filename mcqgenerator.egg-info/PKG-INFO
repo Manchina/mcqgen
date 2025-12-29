@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: mcqgenerator
+Version: 0.0.2
+Summary: An intelligent MCQ generator using LangChain and Gemini AI
+Author: Prem Manchina
+Author-email: premmanchina33@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.9
+Requires-Dist: openai>=1.0.0
+Requires-Dist: langchain==0.3.7
+Requires-Dist: langchain-community==0.3.7
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: streamlit>=1.28.0
+Requires-Dist: PyPDF2>=3.0.0
+Requires-Dist: google-generativeai==0.8.3
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
